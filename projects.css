@@ -1,0 +1,133 @@
+body {
+    font-family: "Rubik";
+    background: white;
+
+    
+    
+  
+  }
+  
+  
+
+  .logo {
+    color: black;
+
+   display:inline-block;
+   position:fixed;
+   font-weight: 500;
+   font-size: 30px;
+   margin-top: 35px;
+   margin-left: 40px;
+   margin-bottom: 20px;
+  
+  
+   text-decoration: none;
+  }
+ 
+  .LL01G {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 0px;
+
+  }
+
+
+  .LL011G {
+    
+
+    width: 30%;
+    margin: 0 30px;
+
+  }
+
+  .LLIMG1{
+    max-width: 550px;
+    height: auto;
+    display: inline-block;
+  
+
+ }
+
+ .LL011G,  .LLIMG1 {
+  height: 700px;
+  overflow-y: scroll;
+}
+
+
+  .LLH1 {
+    display: inline-block;
+    margin-bottom: 30px;
+   
+
+    font-size: 50px;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .LLH2 {
+    display: inline-block;
+
+
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    font-weight: 300; 
+    text-align: justify;
+  
+  }
+
+  .LLH3 {
+    display: inline-block;
+    width: 90%;
+    margin-top: 50px;
+
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    font-weight: 300; 
+    text-align: justify;
+  
+  }
+
+
+ 
+ .LL02G {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    
+  }
+
+  .LLIMG2{
+    
+    margin: 0 20px;
+ }
+
+ .LLIMG3{
+    
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+
+}
+
+
+  
+  @media (max-width: 785px) {
+    .index1 {
+      font-size: 30px;
+    }
+  
+    .index2 {
+      font-size: 30px;
+    }
+  
+    .logo {
+      font-size: 30px;
+    }
+  
+  }
+  
