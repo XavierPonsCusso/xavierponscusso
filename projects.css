@@ -199,6 +199,31 @@ a.next:hover {
   
   }
 
+  .contact {
+    display: inline-block;
+ 
+
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    font-weight: 300;
+    color: black;
+  
+  }
+  
+  .contact:hover {
+    display: inline-block;
+ 
+
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    font-weight: 500;
+    color: rgb(0, 255, 0);
+  
+  }
+
+
 
  
  .LL02G {
