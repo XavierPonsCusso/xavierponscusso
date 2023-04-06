@@ -15,7 +15,7 @@ body {
    display:inline-block;
    position:fixed;
    font-weight: 500;
-   font-size: 30px;
+   font-size: 25px;
    margin-top: 35px;
    margin-left: 40px;
    margin-bottom: 20px;
@@ -23,6 +23,26 @@ body {
   
    text-decoration: none;
   }
+
+
+  .logo:hover{
+    color: rgb(0, 255, 0);
+
+  }
+
+  .hey {
+    display:inline-block;
+    position:fixed;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    color: black;
+    right: 40px;
+  
+   
+    text-decoration: none;
+   }
  
   .LL01G {
     display: flex;
@@ -41,6 +61,15 @@ body {
 
   }
 
+  .zine {
+    
+
+    width: 30%;
+    margin: 0 30px;
+    text-align: center;
+
+  }
+
   .LLIMG1{
     max-width: 550px;
     height: auto;
@@ -49,10 +78,90 @@ body {
 
  }
 
+ 
+
  .LL011G,  .LLIMG1 {
   height: 700px;
   overflow-y: scroll;
 }
+
+.ME01G {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  
+
+}
+
+.Me011G {
+    
+
+  width: 30%;
+  margin: 0 30px;
+  
+
+}
+
+.MeIMG1{
+  max-width: 550px;
+  height: auto;
+  display: inline-block;
+
+
+}
+
+.Me011G,  .MeIMG1 {
+height: 1130px;
+}
+
+.ME02G {
+
+  justify-content: center;
+  text-align: right;
+  width: 86%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+
+}
+
+.next {
+  display: inline-block;
+  color: black;
+
+ 
+  font-size: 30px;
+  font-family: 'Rubik', sans-serif;
+  text-decoration: none;
+  font-weight: 300;
+}
+
+a.next {
+  text-decoration: none;
+  color: black;
+  transition: color 0.5s;
+  display: inline-block;
+}
+
+a.next:hover {
+  font-weight: 500;
+  font-size: 40x;
+  color: rgb(0, 255, 0);
+
+
+}
+
+
+.MeH2 {
+  display: inline-block;
+ 
+
+  font-size: 18px;
+  font-family: 'Rubik', sans-serif;
+  text-decoration: none;
+  font-weight: 500;
+}
+
 
 
   .LLH1 {
@@ -68,6 +177,7 @@ body {
 
   .LLH2 {
     display: inline-block;
+    
 
 
     font-size: 18px;
@@ -81,13 +191,11 @@ body {
   .LLH3 {
     display: inline-block;
     width: 90%;
-    margin-top: 50px;
 
     font-size: 18px;
     font-family: 'Rubik', sans-serif;
     text-decoration: none;
     font-weight: 300; 
-    text-align: justify;
   
   }
 
@@ -97,7 +205,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 50px;
+    margin-top: 100px;
+
     
   }
 
@@ -110,9 +219,131 @@ body {
     
   display: block;
   margin: 0 auto;
-  margin-top: 50px;
+  margin-top: 100px;
 
 }
+
+.ZN01G {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 0px;
+
+}
+
+.zn{
+  width: 560px;
+  height: 700px;
+  text-align: center;
+  padding: 20px;
+
+  
+}
+
+a.zn {
+  transition: 0.5s;
+}
+
+a.zn:hover {
+  width: 110%;
+  border-radius: 8000px;
+  border: 5px solid rgb(0, 255, 0);
+
+}
+
+form {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+
+
+label {
+  display: block;
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Rubik', sans-serif;
+  padding-left: 15px;
+  margin-bottom: 5px;
+
+
+
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 8px;
+  border-radius: 20px;
+  border: 3px solid rgb(0, 255, 0);
+  margin-bottom: 10px;
+}
+
+input[type="submit"] {
+  background-color: white;
+  color: black;
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Rubik', sans-serif;
+  padding: 5px 10px;
+  
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 15px;
+}
+
+input[type="submit"]:hover {
+  color: rgb(0, 255, 0);
+  font-weight: 700;
+
+
+}
+
+input[type="submit"]:focus {
+  outline: none;
+}
+
+textarea {
+  height: 50px;
+}
+
+input[type="reset"] {
+  background-color: white;
+  color: black;
+  font-weight: 300;
+  font-size: 18px;
+  font-family: 'Rubik', sans-serif;
+  padding: 5px 10px;
+  
+  
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input[type="reset"]:hover {
+  color: rgb(0, 255, 0);
+  font-weight: 500;
+
+
+}
+
+.Copy {
+
+  justify-content: center;
+  width: 86%;
+  margin-top: 100px;
+  margin-bottom: 20px;
+
+
+}
+
+
+
+
+
 
 
   
