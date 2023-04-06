@@ -199,7 +199,7 @@ a.next:hover {
   
   }
 
-  .contact {
+  a.contact {
     display: inline-block;
  
 
@@ -213,7 +213,7 @@ a.next:hover {
   
   }
   
-  .contact:hover {
+  a.contact:hover {
     display: inline-block;
  
 
