@@ -56,23 +56,26 @@ body {
   .LL011G {
     
 
-    width: 30%;
+    width: 25%;
     margin: 0 30px;
+    text-align: left;
+    vertical-align: center;
+
+
 
   }
 
   .zine {
     
 
-    width: 30%;
+    width: 25%;
     margin: 0 30px;
     text-align: center;
 
   }
 
   .LLIMG1{
-    max-width: 550px;
-    height: auto;
+    height: 700px;
     display: inline-block;
   
 
@@ -196,10 +199,41 @@ a.next:hover {
     font-family: 'Rubik', sans-serif;
     text-decoration: none;
     font-weight: 300; 
+    letter-spacing: 1px;
+
   
   }
 
-  a.contact {
+  .LLH6 {
+    display: inline-block;
+    width: 20%;
+    grid-column-gap: 20px;
+
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    font-weight: 300; 
+    letter-spacing: 1px;
+    text-align: LEFT;
+    margin-right: 3%;
+
+  }
+
+
+
+  .LLH7 {
+    width: 20%;
+    grid-column-gap: 20px;
+
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    font-weight: 500; 
+
+  
+  }
+
+  .contact {
     display: inline-block;
  
 
@@ -213,7 +247,7 @@ a.next:hover {
   
   }
   
-  a.contact:hover {
+  .contact:hover {
     display: inline-block;
  
 
