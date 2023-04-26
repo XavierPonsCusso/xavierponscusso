@@ -236,4 +236,182 @@ a.next:hover {
 
 }
 
+@media (max-width: 785px) {
+  .index1 {
+    font-size: 30px;
+  }
+
+  .index2 {
+    font-size: 30px;
+  }
+
+  .logo {
+    font-size: 30px;
+  }
+
+  .LLH1 {
+    font-size: 40px;
+
+  }
+
+  .Me011G {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
+  .ME01G {
+    display: block;
+    justify-content: center;
+    margin-top: 100px;
+  }
+
+  .LLH3 {
+    display: inline-block;
+    width: 90%;
+
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 300; 
+    letter-spacing: 1px;
+  }
+
+  .LLH6 {
+    margin: 0 auto;
+    
+    display: block;
+    width: 90%;  
+    font-size: 14px;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    font-weight: 300; 
+    letter-spacing: 1px;
+    text-align: LEFT;
+    margin-right: 3%;
+    margin-top: 1px;
+  }
+
+  .LLH7 {
+    margin: 0 auto;
+
+  
+    width: 20%;  
+    font-size: 14px;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    font-weight: 500; 
+  }
+
+  .LL01G {
+    display: block;
+    margin-top: 50px;
+    justify-content: center;
+
+
+  }
+
+  .contact {
+    margin: 0 auto;
+    display: block;
+ 
+
+    font-size: 14px;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    font-weight: 500;
+    color: black;
+  
+  }
+
+  .LL011G {
+    width: 100%;
+    margin: 0 2%px;
+    text-align: left;
+    vertical-align: center;
+
+  }
+
+  .ESIMG1{
+    width: 80%;
+    display: none;
+
+ }
+
+ .LL011G,  .LLIMG1 {
+  height: auto;
+}
+
+.LL02G {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+
+  
+}
+
+.LLIMG2{    
+  display: flex;
+
+  margin: 0 20px;
+}
+
+.LLIMG3{
+  width: 90%;
+display: block;
+margin: 0 auto;
+margin-top: 20px;
+
+}
+
+.MA01G {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.ES011G {
+  margin: 0 auto;
+
+  width: 80%;
+  margin-right: 30px;
+}
+
+.ES011G, .ESIMG1 {
+  height: auto;
+}
+
+.ESIMG2 {
+  max-width: 550px;
+  display: inline-block;
+
+}
+
+.ESH6 {
+  margin: 0 auto;
+
+  display: block;
+  width: 80%;
+  grid-column-gap: 20px;
+
+  font-size: 14px;
+ 
+
+}
+.ESH7 {
+  font-size: 14px;
+}
+
+.MA01G {
+  
+  display: block;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+
+}
+
+
 

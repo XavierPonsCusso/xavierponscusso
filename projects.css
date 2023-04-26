@@ -307,8 +307,7 @@ a.next:hover {
 }
 
 .zn{
-  width: 560px;
-  height: 700px;
+  width: 90%;
   text-align: center;
   padding: 20px;
 
@@ -434,6 +433,144 @@ input[type="reset"]:hover {
     .logo {
       font-size: 30px;
     }
+
+    .LLH1 {
+      font-size: 40px;
+
+    }
+
+    .Me011G {
+      width: 100%;
+      margin-bottom: 50px;
+    }
+
+    .ME01G {
+      display: block;
+      justify-content: center;
+      margin-top: 100px;
+    }
+  
+    .LLH3 {
+      display: inline-block;
+      width: 90%;
+  
+      font-size: 14px;
+      text-decoration: none;
+      font-weight: 300; 
+      letter-spacing: 1px;
+    }
+
+    .LLH6 {
+      margin: 0 auto;
+      
+      display: block;
+      width: 90%;  
+      font-size: 14px;
+      font-family: 'Rubik', sans-serif;
+      text-decoration: none;
+      font-weight: 300; 
+      letter-spacing: 1px;
+      text-align: LEFT;
+      margin-right: 3%;
+      margin-top: 1px;
+    }
+
+    .LLH7 {
+      margin: 0 auto;
+
+    
+      width: 20%;  
+      font-size: 14px;
+      font-family: 'Rubik', sans-serif;
+      text-decoration: none;
+      font-weight: 500; 
+    }
+
+    .LL01G {
+      display: block;
+      margin-top: 50px;
+      justify-content: center;
+
+  
+    }
+
+    .contact {
+      margin: 0 auto;
+      display: block;
+   
+  
+      font-size: 14px;
+      font-family: 'Rubik', sans-serif;
+      text-decoration: none;
+      font-weight: 500;
+      color: black;
+    
+    }
+
+    .LL011G {
+      width: 100%;
+      margin: 0 2%px;
+      text-align: left;
+      vertical-align: center;
+  
+    }
+
+    .LLIMG1{
+      width: 80%;
+      display: none;
+  
+   }
+
+   .LL011G,  .LLIMG1 {
+    height: auto;
+  }
+
+  .LL02G {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+    
+  }
+
+  .LLIMG2{    
+    display: flex;
+
+    margin: 0 20px;
+ }
+
+ .LLIMG3{
+    width: 90%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+
+}
+.zine {
+    
+
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+.zn{
+
+  display: block;
+  width: 10%;
+  text-align: center;
+  padding: 20px;
+
+  
+}
+.ZN01G {
+  display: block;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 0px;
+
+}
   
   }
   
