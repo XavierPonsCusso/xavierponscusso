@@ -249,6 +249,11 @@ a.index2:hover {
     font-size: 30px;
   }
 
+  .copyright {
+    display:none;
+    
+   }
+
 }
 
 .index3 {

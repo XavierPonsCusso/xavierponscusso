@@ -85,7 +85,6 @@ body {
 
  .LL011G,  .LLIMG1 {
   height: 700px;
-  overflow-y: scroll;
 }
 
 .ME01G {
@@ -99,23 +98,21 @@ body {
 .Me011G {
     
 
-  width: 30%;
+  width: 25%;
   margin: 0 30px;
   
 
 }
 
+
 .MeIMG1{
-  max-width: 550px;
-  height: auto;
+
   display: inline-block;
 
 
 }
 
-.Me011G,  .MeIMG1 {
-height: 1130px;
-}
+
 
 .ME02G {
 
@@ -219,6 +216,21 @@ a.next:hover {
 
   }
 
+  .LLH6:last-child {
+    display: inline-block;
+    width: 20%;
+    grid-column-gap: 20px;
+
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    font-weight: 300; 
+    letter-spacing: 1px;
+    text-align: LEFT;
+    margin-left: 0%;
+
+  }
+
 
 
   .LLH7 {
@@ -240,7 +252,7 @@ a.next:hover {
     font-size: 18px;
     font-family: 'Rubik', sans-serif;
     text-decoration: none;
-    font-weight: 300;
+    font-weight: 500;
     color: black;
 
     text-decoration: none;
